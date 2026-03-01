@@ -6,11 +6,11 @@ A report that present the security assessment findings conducted on testphp.vuln
 The main reason to conduct this report was to identify the potential vulnerabilities that may impact (CIA) security, confidentiality and availabity of the system.
 
 2. Tools and the Scope used for this Assessment
-   -Website    : testphp.vulnweb.com
-   -Tools used : Nmap
+   - Website    : testphp.vulnweb.com
+   - Tools used : Nmap
                : OWASP ZAP
                : Browser DevTools
-   -Date       : 01 March 2025
+   - Date       : 01 March 2025
 
 
 4. Methodolgy
