@@ -13,18 +13,18 @@ The main reason to conduct this report was to identify the potential vulnerabili
    -Date       : 01 March 2025
 
 
-3. Methodolgy
+4. Methodolgy
 
    I've used the network scanning and passive vulnerability analysis techniques.
 
 
-4. My findings
+5. My findings
 
    ID    Vulnerability               Risk level           Impact
    1     Missing Security Headers | Medium      | May allow clickjacking|
    2     Open Port 80 (HTTP)      | Low         | Traffic not encrypted |
 
-5. Detailed Findings
+6. Detailed Findings
 
 (5.1) Open Port 80 (HTTP)
 
