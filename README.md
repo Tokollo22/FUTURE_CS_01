@@ -10,7 +10,7 @@ The main reason to conduct this report was to identify the potential vulnerabili
    - Tools used : Nmap
                , OWASP ZAP
                , Browser DevTools
-   - Date       : 01 March 2025
+   - Date       : 01 March 2026
 
 
 4. Methodolgy
