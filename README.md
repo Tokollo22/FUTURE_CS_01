@@ -25,7 +25,7 @@ The main reason to conduct this report was to identify the potential vulnerabili
    2     Open Port 80 (HTTP)      | Low         | Traffic not encrypted |
 
 
-5 *Detailed Findings*
+5.  *Detailed Findings*
 
 
 (5.1)  Open Port 80 (HTTP)
