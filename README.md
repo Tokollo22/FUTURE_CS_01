@@ -8,8 +8,8 @@ The main reason to conduct this report was to identify the potential vulnerabili
 2. Tools and the Scope used for this Assessment
    - Website    : testphp.vulnweb.com
    - Tools used : Nmap
-               : OWASP ZAP
-               : Browser DevTools
+               , OWASP ZAP
+               , Browser DevTools
    - Date       : 01 March 2025
 
 
