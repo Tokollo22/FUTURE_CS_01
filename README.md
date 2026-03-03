@@ -13,7 +13,8 @@ The main reason to conduct this report was to identify the potential vulnerabili
                , Browser DevTools
    - Date       : 01 March 2026
 
-##3. Methodolgy
+##3. Methodology
+
  I've used the network scanning and passive vulnerability analysis techniques.
 
 
