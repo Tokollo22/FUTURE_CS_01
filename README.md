@@ -67,11 +67,13 @@ The main reason to conduct this report was to identify the potential vulnerabili
 
 7. Evidence
 
- (8.1) Nmap screenshot
+ (7.1) Nmap screenshot
 
 <img width="1365" height="766" alt="Screenshot 2026-03-01 200204" src="https://github.com/user-attachments/assets/82f11b43-435d-45cb-8ad8-60ed7504c764" />
+![Uploading Screenshot 2026-03-01 200204.png…]()
 
- (8.2) OWASP ZAP screenshot
+
+ (7.2) OWASP ZAP screenshot
 
  <img width="1365" height="766" alt="Screenshot 2026-03-01 200204" src="https://github.com/user-attachments/assets/2fc140d0-101a-41a4-96fc-1b9b9985dfd2" />
 
