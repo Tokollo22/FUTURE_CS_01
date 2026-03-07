@@ -6,6 +6,7 @@ Vulnerability Assessment report
 A report that present the security assessment findings conducted on testphp.vulnweb.com
 
 The main reason to conduct this report was to identify the potential vulnerabilities that may impact (CIA) security, confidentiality and availability of the system.
+
 ---
 
 ## Tools and the Scope used for this Assessment
