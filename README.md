@@ -1,6 +1,6 @@
-# FUTURE_CS_01 - Vulnerability Assessment report
+#Vulnerability Assessment report
 
-##1. Executive Summary
+## Executive Summary
 
 A report that present the security assessment findings conducted on testphp.vulnweb.com
 
