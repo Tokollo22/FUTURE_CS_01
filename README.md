@@ -41,7 +41,7 @@ The main reason to conduct this report was to identify the potential vulnerabili
 ## *Detailed Findings*
 
 
- ###  Open Port 80 (HTTP)
+ ####  Open Port 80 (HTTP)
    
    **Risk Level:**  
    - Low  
@@ -60,7 +60,7 @@ The main reason to conduct this report was to identify the potential vulnerabili
   
 
    
-### Missing Security Headers
+#### Missing Security Headers
 
    **Risk Level:** 
    - Medium  
