@@ -58,6 +58,7 @@ The main reason to conduct this report was to identify the potential vulnerabili
    **Recommendation:**  
    - Redirect HTTP traffic to HTTPS and enforce TLS encryption.
   
+
    
 ### Missing Security Headers
 
@@ -74,6 +75,7 @@ The main reason to conduct this report was to identify the potential vulnerabili
    - Configure the web server to implement necessary security headers to avoid the system to be exploited by the attackers.
 
 ---
+
 
 ## Conclusion
 - The evaluation revealed that there are minor to moderate vulnerabilities on the website. Implementing the recommended security measures will strengthen the website security.
