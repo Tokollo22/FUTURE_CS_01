@@ -7,19 +7,20 @@ A report that present the security assessment findings conducted on testphp.vuln
 The main reason to conduct this report was to identify the potential vulnerabilities that may impact (CIA) security, confidentiality and availability of the system.
 ---
 
-##2. Tools and the Scope used for this Assessment
+## Tools and the Scope used for this Assessment
    - Website    : testphp.vulnweb.com
    - Tools used : Nmap
                , OWASP ZAP
                , Browser DevTools
    - Date       : 01 March 2026
 
-##3. Methodology
+---
+## Methodology
 
  I've used the network scanning and passive vulnerability analysis techniques.
 
-
-##4. My findings
+---
+## My findings
 
    ID          | Vulnerability                 | Risk level                | Impact
    
@@ -27,12 +28,12 @@ The main reason to conduct this report was to identify the potential vulnerabili
    
    2 -     Open Port 80 (HTTP)      | Low         | Traffic not encrypted 
 
+---
+
+## *Detailed Findings*
 
 
-##5. *Detailed Findings*
-
-
-   (5.1)  Open Port 80 (HTTP)
+ ###  Open Port 80 (HTTP)
    
    **Risk Level:** Low  
    
@@ -48,7 +49,7 @@ The main reason to conduct this report was to identify the potential vulnerabili
    Redirect HTTP traffic to HTTPS and enforce TLS encryption.
   
    
-(5.2)  Missing Security Headers
+### Missing Security Headers
 
    **Risk Level:** Medium  
 
@@ -61,12 +62,13 @@ The main reason to conduct this report was to identify the potential vulnerabili
    **Recommendation:**  
    - Configure the web server to implement necessary security headers to avoid the system to be exploited by the attackers.
 
+---
 
-6. Conclusion
+## Conclusion
 - The evaluation revealed that there are minor to moderate vulnerabilities on the website. Implementing the recommended security measures will strengthen the website security.
 
-
-7. Evidence
+---
+## Evidence
 
  (7.1) Nmap screenshot
 
