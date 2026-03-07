@@ -1,10 +1,11 @@
-#Vulnerability Assessment report
+##Vulnerability Assessment report
 
 ## Executive Summary
 
 A report that present the security assessment findings conducted on testphp.vulnweb.com
 
 The main reason to conduct this report was to identify the potential vulnerabilities that may impact (CIA) security, confidentiality and availability of the system.
+---
 
 ##2. Tools and the Scope used for this Assessment
    - Website    : testphp.vulnweb.com
