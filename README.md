@@ -21,10 +21,10 @@ The main reason to conduct this report was to identify the potential vulnerabili
 
  I've used the network scanning and passive vulnerability analysis techniques. This objective was to identify potential security weaknesses in the target website.
 
- ### Network Scanning (Nmap)
+ #### Network Scanning (Nmap)
  - Tool used to scan the target server to identify open ports and running services. it determine the potential weakness the attakers use to exploit.
 
-### Passive Vulnerability Scanning (OWASP ZAP)
+#### Passive Vulnerability Scanning (OWASP ZAP)
 - To detect potential web application vulnerabilities without actively attacking the system. Scan identified security issues as missing HTTP security headers which could expose the website to attakers.
 
 ---
