@@ -43,23 +43,26 @@ The main reason to conduct this report was to identify the potential vulnerabili
 
  ###  Open Port 80 (HTTP)
    
-   **Risk Level:** Low  
+   **Risk Level:**  
+   - Low  
    
-   **State:** Open
+   **State:** 
+   - Open
    
    **Description:**  
-   the website accepts connections over HTTP — so the data is sent in plain text instead of being encrypted.
+   - the website accepts connections over HTTP — so the data is sent in plain text instead of being encrypted.
    
    **Business Impact:**  
-   information sent between a user and a server can be captured or read by someone else during transmission.
+   - information sent between a user and a server can be captured or read by someone else during transmission.
    
    **Recommendation:**  
-   Redirect HTTP traffic to HTTPS and enforce TLS encryption.
+   - Redirect HTTP traffic to HTTPS and enforce TLS encryption.
   
    
 ### Missing Security Headers
 
-   **Risk Level:** Medium  
+   **Risk Level:** 
+   - Medium  
 
   **Description:**  
    - The web server does not implement certain HTTP security headers.
