@@ -29,12 +29,10 @@ The main reason to conduct this report was to identify the potential vulnerabili
 
 ---
 ## My findings
-
-   ID          | Vulnerability                 | Risk level                | Impact
-   
-   1 -     Missing Security Headers | Medium      | May allow clickjacking
-   
-   2 -     Open Port 80 (HTTP)      | Low         | Traffic not encrypted 
+|ID  | Vulnerability | Risk Level | Impact |
+|----|---------------|------------|-------------|   
+|  1 |Missing Security Headers | Medium      | May allow clickjacking
+| 2 | Open Port 80 (HTTP)      | Low         | Traffic not encrypted 
 
 ---
 
