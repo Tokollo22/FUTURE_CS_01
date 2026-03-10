@@ -90,5 +90,3 @@ The main reason to conduct this report was to identify the potential vulnerabili
 
  <img width="1365" height="766" alt="Screenshot 2026-03-01 200204" src="https://github.com/user-attachments/assets/2fc140d0-101a-41a4-96fc-1b9b9985dfd2" />
 
-Internship: Cyber Security Intern  
-Organization: Future Interns
